@@ -6,6 +6,14 @@ void print_alphabet(void)
 
 	for (c = 'a'; c <= 'z'; c++)
 {
+	if (c == 'z')
+{
+	_putchar('\n\);
+
+}
+	else
+{
 		_putchar(c);
+}
 }
 }
