@@ -8,7 +8,7 @@ void print_alphabet(void)
 {
 	if (c == 'z')
 {
-	_putchar('\n\);
+	_putchar('\n');
 
 }
 	else
